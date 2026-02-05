@@ -1,0 +1,160 @@
+{
+  "book_id": "climate-conscious-minimalist-local-universal",
+  "title": "The Stillpoint Granary",
+  "tagline": "To save the world, one woman must protect the place the maps forgot.",
+  "target_words": 70000,
+  "actual_words": 75458,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Radical Custodianship vs. Extractive Knowledge",
+    "The Library as Ecosystem",
+    "Local Action as Universal Imperative",
+    "The Weight of Carrying vs. The Burden of Hoarding"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Knock on the Door",
+      "words": 3144
+    },
+    {
+      "ch": 2,
+      "title": "The Map of Ghost Words",
+      "words": 3150
+    },
+    {
+      "ch": 3,
+      "title": "The First Rule of Borrowing",
+      "words": 3145
+    },
+    {
+      "ch": 4,
+      "title": "What the Rain Knows",
+      "words": 3144
+    },
+    {
+      "ch": 5,
+      "title": "The Path of Return",
+      "words": 3145
+    },
+    {
+      "ch": 6,
+      "title": "The Council of Roots",
+      "words": 3144
+    },
+    {
+      "ch": 7,
+      "title": "The Unwritten Ledger",
+      "words": 3145
+    },
+    {
+      "ch": 8,
+      "title": "The Language of Seed",
+      "words": 3144
+    },
+    {
+      "ch": 9,
+      "title": "The Bargain of Shelter",
+      "words": 3145
+    },
+    {
+      "ch": 10,
+      "title": "The Memory in Stone",
+      "words": 3144
+    },
+    {
+      "ch": 11,
+      "title": "The Calculus of Need",
+      "words": 3145
+    },
+    {
+      "ch": 12,
+      "title": "The Weft of Stories",
+      "words": 3144
+    },
+    {
+      "ch": 13,
+      "title": "The Floodplain",
+      "words": 3145
+    },
+    {
+      "ch": 14,
+      "title": "The Keeper's Price",
+      "words": 3144
+    },
+    {
+      "ch": 15,
+      "title": "The Echo in the Bowl",
+      "words": 3145
+    },
+    {
+      "ch": 16,
+      "title": "The Second Visitor",
+      "words": 3144
+    },
+    {
+      "ch": 17,
+      "title": "The Unraveling Thread",
+      "words": 3145
+    },
+    {
+      "ch": 18,
+      "title": "The Bridge That Was",
+      "words": 3144
+    },
+    {
+      "ch": 19,
+      "title": "The Offering",
+      "words": 3145
+    },
+    {
+      "ch": 20,
+      "title": "The True Granary",
+      "words": 3144
+    },
+    {
+      "ch": 21,
+      "title": "The Stillpoint Revealed",
+      "words": 3145
+    },
+    {
+      "ch": 22,
+      "title": "The Choice of the Valley",
+      "words": 3144
+    },
+    {
+      "ch": 23,
+      "title": "What Is Carried Forward",
+      "words": 3145
+    },
+    {
+      "ch": 24,
+      "title": "The Rain on the Tin Roof",
+      "words": 3144
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a chapter from the perspective of the forest or a specific element (the creek, an applewood log) observing the human drama.",
+      "Create a 'found document'—a page from a settler's journal, a botanist's sketch, a child's drawing—that hints at the Granary's true nature.",
+      "Draft a dialogue between two characters from Kells in the village pub, speculating about Elara and the stranger, revealing local lore and tension.",
+      "Write a 'prequel' vignette showing a younger Elara learning one of the core principles of custodianship from her predecessor."
+    ],
+    "technical": [
+      "Build an interactive map of the valley that reveals different layers (ecological, historical, mythical) as the user 'learns' more from the text.",
+      "Design a 'Story Seed' system: a procedural generator that creates new 'Granary' locations and their unique rules/ecologies based on core narrative parameters."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Ursula K. Le Guin (anthropological worldbuilding, quiet resistance)",
+      "Robin Wall Kimmerer (indigenous wisdom, botanical consciousness)",
+      "Henry David Thoreau (radical simplicity, localized philosophy)",
+      "Octavia E. Butler (prescient crisis, pragmatic survival ethics)"
+    ]
+  },
+  "cover_prompt": "A solitary woman stands in quiet guardianship before the ancient, vaulted entrance of a stone granary built into a living cliffside, her hand resting on the weathered wood as if feeling its pulse, surrounded by shelves not of books but of meticulously labeled seed jars, dried herbs, and ecological records embedded in the very rock, the structure intertwined with roots and soft moss, embodying a library that is a living ecosystem. The scene is rendered in the atmospheric, textural, and spiritually resonant style of Agnes Lawrence Pelton and the precise, luminous environmental detail of Thomas Cole's early works, evoking a sacred, minimalist custodianship. The composition is a centered, book-cover framing with a slightly low-angle view, making the granary and its guardian monumental and imposing, yet intimate, with the vast, forgotten landscape of mist-shrouded valleys and resilient native flora unfolding behind her. The lighting is the soft, directional glow of dawn, with long, deep shadows and a color palette of earthy umbers, mineral greys, the faded gold of old paper, and the vital green of preserved life, all under a vast, universal sky. masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
