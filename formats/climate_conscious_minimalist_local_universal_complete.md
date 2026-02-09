@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## **Chapter 1**
 
 The rain on the tin roof was the only thing that ever asked nothing of her.
@@ -142,6 +144,8 @@ She looked at the map he had left behind. One sheet, the modern topographic one,
 
 She carried the map to the fire. She held a corner to the flame. It caught, blackening, curling, the lines of the land consumed by a bright, hungry orange. She dropped it into the hearth and watched until it was ash, until the only map that remained was the one inside her, written in the language of footpaths, apple trees, and the memory of stone.
 
+# Chapter 2
+
 ## **Chapter 2**
 
 The garden demanded the morning.
@@ -249,6 +253,8 @@ The button was a scout. A promise. He had marked the territory.
 Elara picked it up. It was cold in her palm. She closed her fist around it, the edges biting into her skin. The quiet of the bowl felt different now. It felt watched.
 
 The forgetting was over.
+
+# Chapter 3
 
 ## **Chapter 3**
 
